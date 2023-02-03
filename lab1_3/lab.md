@@ -5,7 +5,7 @@
 <br>
 
 ### Выбранная модель в среде NetLogo:
-[Segregation](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/Segregation%20Extensions/Segregation%20Simple%20Extension%201.nlogo)
+[Segregation Simple](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/Segregation%20Extensions/Segregation%20Simple%20Extension%202.nlogo)
 
 <br>
 
