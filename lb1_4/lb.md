@@ -5,8 +5,7 @@
 <br>
 
 ### Выбранная модель в среде NetLogo:
-[DLA Simple Extension 2] 
-(http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/DLA%20Extensions/DLA%20Simple%20Extension%202.nlogo)
+[DLA Simple Extension 2](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/DLA%20Extensions/DLA%20Simple%20Extension%202.nlogo)
 
 <br>
 
