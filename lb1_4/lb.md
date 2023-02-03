@@ -6,7 +6,7 @@
 
 ### Выбранная модель в среде NetLogo:
 [DLA Simple Extension 2] 
-http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/DLA%20Extensions/DLA%20Simple%20Extension%202.nlogo
+(http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/DLA%20Extensions/DLA%20Simple%20Extension%202.nlogo)
 
 <br>
 
@@ -87,7 +87,7 @@ http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM
 </tbody>
 </table>
 
-Таблица показывает, что при выключение параметра, скорость выполнения модели уменьшается.
+Таблица показывает, что при включение параметра, скорость выполнения модели уменьшается.
 
 ### 4. Влияние вероятности прилипания на на окончательный силуэт модели.
 Изучаем влияние вероятности прилипания на на окончательный силуэт модели (На мое мнение). 
